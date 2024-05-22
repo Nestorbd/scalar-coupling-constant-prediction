@@ -1,3 +1,6 @@
 [submodule "web"]
     path = web
-	url = https://github.com/Nestorbd/scalar-coupling-constant-prediction-web/tree/7260ba7fd21dfb531b8ba91115ddcf02cd9576ad
+	url = https://github.com/Nestorbd/scalar-coupling-constant-prediction-web.git
+[submodule "scalar-coupling-constant-prediction-web"]
+	path = scalar-coupling-constant-prediction-web
+	url = https://github.com/Nestorbd/scalar-coupling-constant-prediction-web.git
